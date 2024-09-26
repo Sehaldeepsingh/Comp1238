@@ -1,4 +1,4 @@
-#Number Row Character
+# Number Row Character
 - ! (Exclamation Mark)
 - @ (At Symbol)
 - $ (Dollar Sign)
